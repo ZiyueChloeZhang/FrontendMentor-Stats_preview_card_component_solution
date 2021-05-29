@@ -7,7 +7,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  <!-- - [Links](#links) -->
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,10 +26,8 @@ Users should be able to:
 ![](./solution_screenshot/desktop.png)
 ![](./solution_screenshot/mobile.png)
 
-<!-- ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+### Links
+- Solution URL: [Solution](https://chloezzy.github.io/FrontendMentor-Stats_preview_card_component_solution/)
 
 ## My process
 
@@ -39,6 +37,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Github Pages
 
 ### What I learned
 - how to place elements where I want using nested flex containers
@@ -46,6 +45,7 @@ Users should be able to:
 - import fonts from [Google Fonts](https://fonts.google.com/)
 - different units: vh, vw, em, %
 - makeing a webpage different on mobile and desktop using media queries
+- how to host a static webpage on [GitHub Pages](https://pages.github.com/)
 
 ### Continued development
 In will try to use more sematic html markup to increase the readbility of my code. Also try to seperate the mobile and desktop portion of the css file in a more clearer way.
