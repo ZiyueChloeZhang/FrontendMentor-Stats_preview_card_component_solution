@@ -81,7 +81,7 @@ body {
     border-bottom-right-radius: inherit;
 }
 
-@media (max-width:375px) {
+@media (max-width:450px) {
     .card {
     background-color: hsl(244, 38%, 16%);
     width: 330px;
